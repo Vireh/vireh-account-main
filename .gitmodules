@@ -1,0 +1,3 @@
+[submodule "virehSol"]
+	path = virehSol
+	url = https://github.com/Vireh/vireh-sol-main.git
