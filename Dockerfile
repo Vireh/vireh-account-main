@@ -31,7 +31,7 @@ WORKDIR /workdir
 
 # Copy the real files
 COPY client/ ./client/
-COPY nousflash/agent/ ./agent/
+COPY virehSol /agent/ ./agent/
 COPY run.sh ./
 COPY timerelease.sh ./
 
